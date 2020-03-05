@@ -1,0 +1,60 @@
+didem 40 
+
+null 30 
+
+null 40 
+
+null 40 
+
+buse 40 
+
+buse 20 
+
+null 40 
+
+null 40 
+
+buse 30 
+
+null 40 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 20 
+
+buse 40 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
+null 0 
+
